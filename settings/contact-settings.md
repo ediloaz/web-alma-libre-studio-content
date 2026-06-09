@@ -1,10 +1,5 @@
 ---
-whatsappNumber: '15550000000'
-whatsappMessage: Hola, vi su sitio web y...
-email: info@demo.com
----
----
-whatsappNumber: '15550000000'
-whatsappMessage: Hola, vi su sitio web y...
-email: info@demo.com
+whatsappNumber: '50688881234'
+whatsappMessage: Hola, me interesa conocer los horarios y planes de Alma Libre Studio. ¿Me pueden ayudar?
+email: ediloaz+alma-libre-studio@gmail.com
 ---

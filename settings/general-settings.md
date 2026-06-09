@@ -1,16 +1,8 @@
 ---
-brandName: Empresa Demo
-tagline: Calidad y confianza
-description: Empresa de servicios genérica que ofrece soluciones de calidad y confianza.
-primaryColor: '#0EA5E9'
-secondaryColor: '#F59E0B'
-darkModeEnabled: true
----
----
-brandName: Empresa Demo
-tagline: Calidad y confianza
-description: Empresa de servicios genérica que ofrece soluciones de calidad y confianza.
-primaryColor: '#0EA5E9'
-secondaryColor: '#F59E0B'
-darkModeEnabled: true
+brandName: Alma Libre Studio
+tagline: Movimiento consciente para cuerpo y mente libres
+description: Estudio boutique de yoga, pilates y entrenamiento personal en San José. Horarios flexibles, planes mensuales o por clases, primera clase gratis.
+primaryColor: '#5B7B6A'
+secondaryColor: '#E8DDD0'
+darkModeEnabled: false
 ---

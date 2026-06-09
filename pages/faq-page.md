@@ -1,6 +1,6 @@
 ---
 title: Preguntas frecuentes
-subtitle: Respondemos las dudas más comunes sobre nuestros servicios y productos.
-description: Respondemos las dudas más comunes.
-emptyMessage: Todavía no hay preguntas publicadas. Volvé pronto para ver novedades.
+subtitle: Todo lo que necesitás saber antes de tu primera clase
+description: Resolvemos las dudas más comunes sobre equipamiento, experiencia previa y planes.
+emptyMessage: No hay preguntas publicadas aún.
 ---

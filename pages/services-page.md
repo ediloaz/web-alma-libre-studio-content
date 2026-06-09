@@ -1,6 +1,6 @@
 ---
 title: Servicios
-subtitle: Soluciones que diseñamos a la medida de cada cliente.
-description: Conocé los servicios que ofrecemos.
-emptyMessage: Todavía no hay servicios publicados. Volvé pronto para ver novedades.
+subtitle: Yoga, pilates y entrenamiento personal
+description: Descubrí nuestras disciplinas y encontrá la práctica que mejor se adapta a vos.
+emptyMessage: Pronto publicaremos nuevos servicios. Mientras tanto, escribinos por WhatsApp.
 ---
