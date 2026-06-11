@@ -1,5 +1,5 @@
 ---
-heroImage: /content-uploads/alma-libre-studio/about/studio-hero-cover.jpg
+heroImage: /content-uploads/about/07-detalle-del-estudio.jpg
 heroTitle: Alma libre es practicar sin juicio
 heroSubtitle: Un estudio boutique donde el movimiento consciente se convierte en hábito sostenible.
 storyTitle: La historia de Valentina
@@ -27,6 +27,6 @@ values:
 team:
   - name: Valentina Mora
     role: Fundadora · Instructora de yoga y pilates
-    photo: /content-uploads/alma-libre-studio/about/valentina-mora-cover.jpg
+    photo: /content-uploads/about/valentina-mora-cover.jpg
     bio: Certificada en yoga Vinyasa, Hatha y pilates mat. +8 años acompañando personas en su camino de bienestar. Cree que el movimiento consciente libera cuerpo y mente.
 ---

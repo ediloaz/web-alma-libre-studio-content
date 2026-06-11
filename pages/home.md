@@ -29,7 +29,7 @@ aboutSummary:
     En nuestro estudio encontrás luz natural, plantas, madera clara y una comunidad que te recibe con los brazos abiertos.
   ctaLabel: Conocé nuestra historia
   ctaHref: /nosotros
-  image: /content-uploads/alma-libre-studio/about/valentina-mora-cover.jpg
+  image: /content-uploads/about/valentina-mora.png
 ctaBanner:
   title: Tu mat te espera
   description: Reservá tu clase de prueba gratis y descubrí por qué tantas personas eligen Alma Libre para cuidar cuerpo y mente.
