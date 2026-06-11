@@ -1,7 +1,7 @@
 ---
 name: Carlos R.
 slug: carlos-r
-photo: /content-uploads/testimonials/carlos-r.jpg
+photo: /content-uploads/testimonials/carlos-r.png
 rating: 5
 order: 3
 ---

@@ -1,7 +1,7 @@
 ---
 name: María G.
 slug: maria-g
-photo: /content-uploads/testimonials/maria-g.jpg
+photo: /content-uploads/testimonials/maria-g.png
 rating: 5
 order: 1
 ---

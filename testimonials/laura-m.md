@@ -1,7 +1,7 @@
 ---
 name: Laura M.
 slug: laura-m
-photo: /content-uploads/testimonials/laura-m.jpg
+photo: /content-uploads/testimonials/laura-m.png
 rating: 5
 order: 4
 ---

@@ -1,7 +1,7 @@
 ---
 name: Patricia V.
 slug: patricia-v
-photo: /content-uploads/testimonials/patricia-v.jpg
+photo: /content-uploads/testimonials/patricia-v.png
 rating: 5
 order: 5
 ---

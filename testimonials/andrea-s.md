@@ -1,7 +1,7 @@
 ---
 name: Andrea S.
 slug: andrea-s
-photo: /content-uploads/testimonials/andrea-s.jpg
+photo: /content-uploads/testimonials/andrea-s.png
 rating: 5
 order: 2
 ---
