@@ -1,7 +1,7 @@
 ---
 name: Andrea S.
 slug: andrea-s
-photo: /content-uploads/alma-libre-studio/testimonials/andrea-s-cover.jpg
+photo: /content-uploads/testimonials/andrea-s.jpg
 rating: 5
 order: 2
 ---

@@ -1,7 +1,7 @@
 ---
 name: Carlos R.
 slug: carlos-r
-photo: /content-uploads/alma-libre-studio/testimonials/carlos-r-cover.jpg
+photo: /content-uploads/testimonials/carlos-r.jpg
 rating: 5
 order: 3
 ---

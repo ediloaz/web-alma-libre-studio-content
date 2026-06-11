@@ -1,7 +1,7 @@
 ---
 name: Laura M.
 slug: laura-m
-photo: /content-uploads/alma-libre-studio/testimonials/laura-m-cover.jpg
+photo: /content-uploads/testimonials/laura-m.jpg
 rating: 5
 order: 4
 ---

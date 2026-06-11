@@ -1,7 +1,7 @@
 ---
 name: María G.
 slug: maria-g
-photo: /content-uploads/alma-libre-studio/testimonials/maria-g-cover.jpg
+photo: /content-uploads/testimonials/maria-g.jpg
 rating: 5
 order: 1
 ---

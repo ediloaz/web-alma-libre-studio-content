@@ -1,7 +1,7 @@
 ---
 name: Patricia V.
 slug: patricia-v
-photo: /content-uploads/alma-libre-studio/testimonials/patricia-v-cover.jpg
+photo: /content-uploads/testimonials/patricia-v.jpg
 rating: 5
 order: 5
 ---
