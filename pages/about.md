@@ -30,5 +30,3 @@ team:
     photo: /content-uploads/alma-libre-studio/about/valentina-mora-cover.jpg
     bio: Certificada en yoga Vinyasa, Hatha y pilates mat. +8 años acompañando personas en su camino de bienestar. Cree que el movimiento consciente libera cuerpo y mente.
 ---
-
-Contenido auxiliar de About (no se renderiza en V1).
