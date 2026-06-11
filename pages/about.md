@@ -1,5 +1,5 @@
 ---
-heroImage: /content-uploads/about/07-detalle-del-estudio.jpg
+heroImage: /content-uploads/about/valentina-mora.png
 heroTitle: Alma libre es practicar sin juicio
 heroSubtitle: Un estudio boutique donde el movimiento consciente se convierte en hábito sostenible.
 storyTitle: La historia de Valentina
