@@ -3,7 +3,7 @@ title: Yoga
 slug: yoga
 icon: Flower2
 summary: Vinyasa, Hatha y restaurativo para conectar respiración y movimiento. Clases para todos los niveles, con adaptaciones en cada postura.
-coverImage: /content-uploads/alma-libre-studio/services/yoga-cover.jpg
+coverImage: /content-uploads/services/yoga.jpg
 ctaLabel: Reservar clase de yoga
 ctaHref: https://wa.me/50688881234?text=Hola%2C%20me%20interesa%20reservar%20una%20clase%20de%20yoga.
 order: 1

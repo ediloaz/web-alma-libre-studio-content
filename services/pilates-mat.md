@@ -3,7 +3,7 @@ title: Pilates Mat
 slug: pilates-mat
 icon: Activity
 summary: Fortalecimiento del core, postura y flexibilidad en grupos reducidos. Método mat con atención personalizada.
-coverImage: /content-uploads/alma-libre-studio/services/pilates-cover.jpg
+coverImage: /content-uploads/services/pilates.jpg
 ctaLabel: Reservar clase de pilates
 ctaHref: https://wa.me/50688881234?text=Hola%2C%20me%20interesa%20reservar%20una%20clase%20de%20pilates.
 order: 2

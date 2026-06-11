@@ -3,7 +3,7 @@ title: Entrenamiento personal
 slug: entrenamiento-personal
 icon: Dumbbell
 summary: Sesiones one-on-one en el estudio. Plan funcional adaptado a tus metas — fuerza, movilidad, rehabilitación o bienestar general.
-coverImage: /content-uploads/alma-libre-studio/services/personal-cover.jpg
+coverImage: /content-uploads/services/personal.jpg
 ctaLabel: Consultar entrenamiento personal
 ctaHref: https://wa.me/50688881234?text=Hola%2C%20me%20interesa%20información%20sobre%20entrenamiento%20personal.
 order: 3
