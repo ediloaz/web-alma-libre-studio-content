@@ -3,7 +3,7 @@ title: Clases grupales
 slug: clases-grupales
 icon: Users
 summary: Horarios fijos de yoga y pilates con cupos limitados. La forma más accesible de mantener una práctica constante.
-coverImage: /content-uploads/services/yoga.jpg
+coverImage: /content-uploads/services/group.jpg
 ctaLabel: Ver horarios por WhatsApp
 ctaHref: https://wa.me/50688881234?text=Hola%2C%20¿cuáles%20son%20los%20horarios%20de%20clases%20grupales%3F
 order: 4
