@@ -27,6 +27,6 @@ values:
 team:
   - name: Valentina Mora
     role: Fundadora · Instructora de yoga y pilates
-    photo: /content-uploads/about/valentina-mora-cover.jpg
+    photo: /content-uploads/about/valentina-mora.png
     bio: Certificada en yoga Vinyasa, Hatha y pilates mat. +8 años acompañando personas en su camino de bienestar. Cree que el movimiento consciente libera cuerpo y mente.
 ---
