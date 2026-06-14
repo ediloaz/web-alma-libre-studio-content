@@ -1,13 +1,13 @@
 # Almacenamiento — Repo B
 
-> Generado por GitHub Actions el 2026-06-07 07:29 UTC.
+> Generado por GitHub Actions el 2026-06-14 07:45 UTC.
 
 ## Estado
 
 | Métrica | Valor | Estado |
 | --- | --- | --- |
-| `public/content-uploads/` (árbol) | 0.00 MB | 🟢 |
-| Tamaño total del repo (size-pack) | 0.05 MB (47.14 KiB) | 🟢 |
+| `public/content-uploads/` (árbol) | 3.40 MB | 🟢 |
+| Tamaño total del repo (size-pack) | 3.30 MB (3.30 MiB) | 🟢 |
 
 ## Umbrales (spec §17.4)
 
@@ -20,5 +20,13 @@
 
 | Archivo | Tamaño |
 | --- | --- |
-| `public/content-uploads/about-summary.jpg.svg` | 0.00 MB |
-| `public/content-uploads/README.md` | 0.00 MB |
+| `public/content-uploads/services/personal.png` | 1.33 MB |
+| `public/content-uploads/about/valentina-mora.png` | 0.38 MB |
+| `public/content-uploads/gallery/01-sala-principal.jpg` | 0.26 MB |
+| `public/content-uploads/services/pilates.jpg` | 0.19 MB |
+| `public/content-uploads/gallery/07-detalle-del-estudio.jpg` | 0.18 MB |
+| `public/content-uploads/about/07-detalle-del-estudio.jpg` | 0.18 MB |
+| `public/content-uploads/services/group.jpg` | 0.17 MB |
+| `public/content-uploads/testimonials/carlos-r.png` | 0.11 MB |
+| `public/content-uploads/testimonials/maria-g.png` | 0.10 MB |
+| `public/content-uploads/gallery/08-comunidad.jpg` | 0.07 MB |
